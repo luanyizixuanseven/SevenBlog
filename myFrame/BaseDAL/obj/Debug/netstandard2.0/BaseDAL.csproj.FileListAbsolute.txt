@@ -1,0 +1,7 @@
+D:\hj\mySpace\baseFrame\myFrame\BaseDAL\bin\Debug\netstandard2.0\BaseDAL.deps.json
+D:\hj\mySpace\baseFrame\myFrame\BaseDAL\bin\Debug\netstandard2.0\BaseDAL.dll
+D:\hj\mySpace\baseFrame\myFrame\BaseDAL\obj\Debug\netstandard2.0\BaseDAL.csprojAssemblyReference.cache
+D:\hj\mySpace\baseFrame\myFrame\BaseDAL\obj\Debug\netstandard2.0\BaseDAL.csproj.CoreCompileInputs.cache
+D:\hj\mySpace\baseFrame\myFrame\BaseDAL\obj\Debug\netstandard2.0\BaseDAL.AssemblyInfoInputs.cache
+D:\hj\mySpace\baseFrame\myFrame\BaseDAL\obj\Debug\netstandard2.0\BaseDAL.AssemblyInfo.cs
+D:\hj\mySpace\baseFrame\myFrame\BaseDAL\bin\Debug\netstandard2.0\BaseEntity.dll

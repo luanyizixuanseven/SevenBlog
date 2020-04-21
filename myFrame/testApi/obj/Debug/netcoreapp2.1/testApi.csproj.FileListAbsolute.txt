@@ -1,0 +1,13 @@
+D:\hj\mySpace\baseFrame\myFrame\testApi\bin\Debug\netcoreapp2.1\testApi.deps.json
+D:\hj\mySpace\baseFrame\myFrame\testApi\bin\Debug\netcoreapp2.1\testApi.runtimeconfig.json
+D:\hj\mySpace\baseFrame\myFrame\testApi\bin\Debug\netcoreapp2.1\testApi.runtimeconfig.dev.json
+D:\hj\mySpace\baseFrame\myFrame\testApi\bin\Debug\netcoreapp2.1\testApi.dll
+D:\hj\mySpace\baseFrame\myFrame\testApi\bin\Debug\netcoreapp2.1\testApi.pdb
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.csproj.CoreCompileInputs.cache
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.RazorAssemblyInfo.cache
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.RazorAssemblyInfo.cs
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.AssemblyInfoInputs.cache
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.AssemblyInfo.cs
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.RazorTargetAssemblyInfo.cache
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.dll
+D:\hj\mySpace\baseFrame\myFrame\testApi\obj\Debug\netcoreapp2.1\testApi.pdb
