@@ -1,7 +1,0 @@
-D:\hj\mySpace\baseFrame\myFrame\BaseConsole\bin\Debug\BaseConsole.exe.config
-D:\hj\mySpace\baseFrame\myFrame\BaseConsole\bin\Debug\BaseConsole.exe
-D:\hj\mySpace\baseFrame\myFrame\BaseConsole\bin\Debug\BaseConsole.pdb
-D:\hj\mySpace\baseFrame\myFrame\BaseConsole\obj\Debug\BaseConsole.csprojAssemblyReference.cache
-D:\hj\mySpace\baseFrame\myFrame\BaseConsole\obj\Debug\BaseConsole.csproj.CoreCompileInputs.cache
-D:\hj\mySpace\baseFrame\myFrame\BaseConsole\obj\Debug\BaseConsole.exe
-D:\hj\mySpace\baseFrame\myFrame\BaseConsole\obj\Debug\BaseConsole.pdb

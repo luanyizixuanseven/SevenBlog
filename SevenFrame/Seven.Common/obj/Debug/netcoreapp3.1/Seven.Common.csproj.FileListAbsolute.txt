@@ -1,0 +1,9 @@
+D:\hj\mySpace\SevenFrame\Seven.Common\bin\Debug\netcoreapp3.1\Seven.Common.deps.json
+D:\hj\mySpace\SevenFrame\Seven.Common\bin\Debug\netcoreapp3.1\Seven.Common.dll
+D:\hj\mySpace\SevenFrame\Seven.Common\bin\Debug\netcoreapp3.1\Seven.Common.pdb
+D:\hj\mySpace\SevenFrame\Seven.Common\obj\Debug\netcoreapp3.1\Seven.Common.csprojAssemblyReference.cache
+D:\hj\mySpace\SevenFrame\Seven.Common\obj\Debug\netcoreapp3.1\Seven.Common.csproj.CoreCompileInputs.cache
+D:\hj\mySpace\SevenFrame\Seven.Common\obj\Debug\netcoreapp3.1\Seven.Common.AssemblyInfoInputs.cache
+D:\hj\mySpace\SevenFrame\Seven.Common\obj\Debug\netcoreapp3.1\Seven.Common.AssemblyInfo.cs
+D:\hj\mySpace\SevenFrame\Seven.Common\obj\Debug\netcoreapp3.1\Seven.Common.dll
+D:\hj\mySpace\SevenFrame\Seven.Common\obj\Debug\netcoreapp3.1\Seven.Common.pdb

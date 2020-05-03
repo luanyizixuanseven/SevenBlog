@@ -1,0 +1,9 @@
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\bin\Debug\netcoreapp2.1\Seven.BaseEntity.deps.json
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\bin\Debug\netcoreapp2.1\Seven.BaseEntity.dll
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\bin\Debug\netcoreapp2.1\Seven.BaseEntity.pdb
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\obj\Debug\netcoreapp2.1\Seven.BaseEntity.csprojAssemblyReference.cache
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\obj\Debug\netcoreapp2.1\Seven.BaseEntity.csproj.CoreCompileInputs.cache
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\obj\Debug\netcoreapp2.1\Seven.BaseEntity.AssemblyInfoInputs.cache
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\obj\Debug\netcoreapp2.1\Seven.BaseEntity.AssemblyInfo.cs
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\obj\Debug\netcoreapp2.1\Seven.BaseEntity.dll
+D:\hj\mySpace\SevenFrame\Seven.BaseEntity\obj\Debug\netcoreapp2.1\Seven.BaseEntity.pdb

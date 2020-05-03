@@ -1,0 +1,15 @@
+D:\hj\mySpace\SevenFrame\Seven.DAL\bin\Debug\netcoreapp3.1\Seven.DAL.deps.json
+D:\hj\mySpace\SevenFrame\Seven.DAL\bin\Debug\netcoreapp3.1\Seven.DAL.dll
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.AssemblyInfoInputs.cache
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.AssemblyInfo.cs
+D:\hj\mySpace\SevenFrame\Seven.DAL\bin\Debug\netcoreapp3.1\Seven.DAL.runtimeconfig.json
+D:\hj\mySpace\SevenFrame\Seven.DAL\bin\Debug\netcoreapp3.1\Seven.DAL.runtimeconfig.dev.json
+D:\hj\mySpace\SevenFrame\Seven.DAL\bin\Debug\netcoreapp3.1\Seven.DAL.pdb
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.dll
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.pdb
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.genruntimeconfig.cache
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.csprojAssemblyReference.cache
+D:\hj\mySpace\SevenFrame\Seven.DAL\bin\Debug\netcoreapp3.1\Seven.BaseEntity.dll
+D:\hj\mySpace\SevenFrame\Seven.DAL\bin\Debug\netcoreapp3.1\Seven.BaseEntity.pdb
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.csproj.CopyComplete
+D:\hj\mySpace\SevenFrame\Seven.DAL\obj\Debug\netcoreapp3.1\Seven.DAL.csproj.CoreCompileInputs.cache
